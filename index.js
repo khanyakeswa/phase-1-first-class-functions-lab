@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const returnLastTwoDrivers = (array) => {
+    return [array[0], array[1]]
+};
